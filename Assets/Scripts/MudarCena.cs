@@ -27,19 +27,21 @@ public class MudarCena : MonoBehaviour
         SceneManager.LoadScene(nomeDaCena3);
     }
 
-}
-    
-   /* void Update()
-    {
-        if(DragDrop.colouCerto == true)
-        {
-            CarregarNovaCena();
-        }
-    }
-
-    private void CarregarNovaCena()
+    public void CarregarNovaCena(string nomeDaCena)
     {
         SceneManager.LoadScene(nomeDaCena);
     }
+
 }
-   */
+
+/* void Update()
+ {
+     if(DragDrop.colouCerto == true)
+     {
+         CarregarNovaCena();
+     }
+ }
+*/
+
+
+   

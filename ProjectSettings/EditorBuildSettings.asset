@@ -5,15 +5,6 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: 
-    guid: 2cda990e2423bbf4892e6590ba056729
-  - enabled: 0
-    path: 
-    guid: 9c709f3bd8689114c81eaadf98f6699a
-  - enabled: 0
-    path: 
-    guid: 46481c254a192a94ca484ca61179bcb6
   - enabled: 1
     path: Assets/Scenes/MenuInicial.unity
     guid: fc0d1813cb53a2542b834f6a47ba8d63
@@ -53,36 +44,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Parabens.unity
     guid: 07b479defef886e428a44471ae12871a
-  - enabled: 0
-    path: 
-    guid: adb0cf684dca25a4db71842d87ee8b87
-  - enabled: 0
-    path: 
-    guid: 433df56c95c0b2848af066f8f98b347c
-  - enabled: 0
-    path: 
-    guid: 7559da1000e26604b85b76665fed48a5
-  - enabled: 0
-    path: 
-    guid: ac6b786f7ebadc9488dba8e610f069cf
-  - enabled: 0
-    path: 
-    guid: a8a6f9632efc9b848be3a3b60aef7a01
-  - enabled: 0
-    path: 
-    guid: 84a492a9b8a719a4c8d601dbbdf03f3c
-  - enabled: 0
-    path: 
-    guid: bf6e53740c7216a40b14b3904324d81a
-  - enabled: 0
-    path: 
-    guid: 513d02d248ef5ce4eb3e21b3c3f3ad5d
-  - enabled: 0
-    path: 
-    guid: 3d4e36a36c4122b4595e101a6200e5dd
-  - enabled: 0
-    path: 
-    guid: 4c3892cdf56e7cf4387910b749d9882c
   - enabled: 1
     path: Assets/Scenes/JogoNomes/Cena Nome 2.unity
     guid: 678634e73ee4b644e9bc3a84e462b069
@@ -155,7 +116,22 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/JogoSom/Cena Som 2.unity
     guid: 023d6cf05e8137f4ca391d0964491888
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Creditos.unity
     guid: 7c697c39d086b4947961383dc412f209
+  - enabled: 0
+    path: Assets/Scenes/NovoLayout/NewHome.unity
+    guid: f279feadfae6f2e4993b5da69ab05554
+  - enabled: 1
+    path: Assets/Scenes/NovoLayout/NewCreditos.unity
+    guid: defb7356e9bd7a74fb62ad3b4aa37036
+  - enabled: 0
+    path: Assets/Scenes/NovoLayout/NEWParabens1.unity
+    guid: 679422e5c34b69541b1b3b3504dd52c7
+  - enabled: 0
+    path: Assets/Scenes/NovoLayout/NewParabens2.unity
+    guid: 95e470f4eba2dc54ea1e06d99d6cba24
+  - enabled: 1
+    path: Assets/Scenes/NovoLayout/NewSelecao.unity
+    guid: 669ebe238e1ae4c4da969312da1b44d5
   m_configObjects: {}
