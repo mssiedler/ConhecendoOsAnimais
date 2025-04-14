@@ -1,0 +1,1 @@
+C:\Users\T-GAMER\Documents\GitHub\ConhecendoOsAnimais\Library\Bee\Android\Prj\IL2CPP\Gradle\unityLibrary\build\intermediates\cxx\RelWithDebInfo\336fq653\obj\arm64-v8a

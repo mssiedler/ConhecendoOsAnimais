@@ -8,7 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/MenuInicial.unity
     guid: fc0d1813cb53a2542b834f6a47ba8d63
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/MenuPrincipal.unity
     guid: bb4649ac58463e54297ab868e028650d
   - enabled: 1
@@ -135,3 +135,4 @@ EditorBuildSettings:
     path: Assets/Scenes/NovoLayout/NewSelecao.unity
     guid: 669ebe238e1ae4c4da969312da1b44d5
   m_configObjects: {}
+  m_UseUCBPForAssetBundles: 0

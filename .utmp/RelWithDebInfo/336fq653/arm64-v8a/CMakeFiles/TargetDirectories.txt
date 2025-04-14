@@ -1,0 +1,5 @@
+C:/Users/T-GAMER/Documents/GitHub/ConhecendoOsAnimais/.utmp/RelWithDebInfo/336fq653/arm64-v8a/CMakeFiles/edit_cache.dir
+C:/Users/T-GAMER/Documents/GitHub/ConhecendoOsAnimais/.utmp/RelWithDebInfo/336fq653/arm64-v8a/CMakeFiles/rebuild_cache.dir
+C:/Users/T-GAMER/Documents/GitHub/ConhecendoOsAnimais/.utmp/RelWithDebInfo/336fq653/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Users/T-GAMER/Documents/GitHub/ConhecendoOsAnimais/.utmp/RelWithDebInfo/336fq653/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Users/T-GAMER/Documents/GitHub/ConhecendoOsAnimais/.utmp/RelWithDebInfo/336fq653/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
